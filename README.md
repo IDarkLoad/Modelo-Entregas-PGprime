@@ -1,5 +1,5 @@
 Controle de Entrega de Veículos - PGPrime Versão 1.0.0
-Este é um projeto React para o Controle de Entrega de Veículos desenvolvido internamente pela PGPrime. Essa aplicação tem como objetivo auxiliar na gestão das entregas de carros aos clientes, fornecendo uma interface intuitiva e fácil de usar para registrar e acompanhar as informações relacionadas às entregas.
+Este é um projeto React para o Controle de Entrega de Veículos desenvolvido para uso interno pela PGPrime. Essa aplicação tem como objetivo auxiliar na gestão das entregas de carros aos clientes, fornecendo uma interface intuitiva e fácil de usar para registrar e acompanhar as informações relacionadas às entregas.
 
 Funcionalidades
 Adicionar Tarefa de Entrega: Permite adicionar uma nova tarefa de entrega com as informações de marca, modelo, tipo de entrega e local de entrega.
